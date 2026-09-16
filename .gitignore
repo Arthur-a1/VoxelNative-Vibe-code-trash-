@@ -1,0 +1,6 @@
+.vs/
+bin/
+obj/
+*.user
+*.VC.db
+*.VC.VC.opendb
